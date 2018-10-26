@@ -1,0 +1,1 @@
+This is Fullstack App about posting data to database and getting them back. We use React for frontend and for backend: MongoDb, Express, Node, axios.
